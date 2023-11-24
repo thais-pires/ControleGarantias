@@ -1,1 +1,65 @@
-/* You can add global styles to this file, and also import other style files */
+// @import '../node_modules/alertifyjs//build/css/alertify.min.css';
+// @import '../node_modules/alertifyjs//build/css/themes/bootstrap.min.css';
+// @import '../node_modules/alertifyjs//build/css/themes/default.min.css';
+
+// body {
+//   font-family: Roboto, "Helvetica Neue", sans-serif;
+//   font-size: 14px;
+//   color: #333;
+//   margin: 0;
+// }
+
+// div[fxLayout] {
+//   align-items: center;  // Centraliza verticalmente
+//   justify-content: center;  // Centraliza horizontalmente
+// }
+
+// .mat-elevation-z8 {
+//   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+//   // border-radius: 8px;
+//   overflow: hidden;
+//   // margin: 50px;
+// }
+
+// table {
+//   width: 100%;
+//   border-collapse: collapse;
+//   margin-top: 16px;
+
+//   th, td {
+//     border: 1px solid #ddd;
+//     padding: 8px;
+//     text-align: left;
+//   }
+
+//   th {
+//     background-color: #f2f2f2;
+//   }
+
+//   td {
+//     &:nth-child(even) {
+//       background-color: #f9f9f9;
+//     }
+//   }
+
+//   th.mat-header-cell, td.mat-cell {
+//     white-space: nowrap;
+//     overflow: hidden;
+//     text-overflow: ellipsis;
+//     max-width: 150px;
+//   }
+// }
+
+// .mat-raised-button {
+//   margin: 8px;
+// }
+
+// .mat-paginator {
+//   margin-top: 16px;
+// }
+
+// h1 {
+//   margin: 16px;
+//   align-items: center;
+//   justify-content: center;
+// }

@@ -1,0 +1,22 @@
+.container {
+  margin: 20px;
+}
+
+.mat-form-field {
+  width: 100%;
+  max-width: 400px; /* Defina o valor máximo desejado */
+}
+
+.search-input {
+  margin-bottom: 20px;
+}
+
+.mat-paginator {
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .mat-form-field {
+    max-width: 100%;
+  }
+}

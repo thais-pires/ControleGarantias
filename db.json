@@ -1,0 +1,66 @@
+{
+  "produtos": [
+    {
+      "id": 3,
+      "nome": "Televisão",
+      "dataCompra": "2021-06-11",
+      "duracaoGarantiaMeses": "5",
+      "dataFimGarantia": "2021-11-11"
+    },
+    {
+      "nome": "Pc",
+      "dataCompra": "2023-10-05T03:00:00.000Z",
+      "duracaoGarantiaMeses": "5",
+      "dataFimGarantia": "",
+      "id": 4
+    },
+    {
+      "nome": "Cel",
+      "dataCompra": "2023-04-10T03:00:00.000Z",
+      "duracaoGarantiaMeses": "1",
+      "id": 5
+    },
+    {
+      "nome": "asd",
+      "dataCompra": "2023-11-01T03:00:00.000Z",
+      "duracaoGarantiaMeses": "12",
+      "id": 6
+    },
+    {
+      "nome": "sddsf",
+      "dataCompra": null,
+      "duracaoGarantiaMeses": "ret",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "nome": "4345",
+      "dataCompra": "",
+      "duracaoGarantiaMeses": ""
+    },
+    {
+      "id": 9,
+      "nome": "345",
+      "dataCompra": null,
+      "duracaoGarantiaMeses": "t54t"
+    },
+    {
+      "id": 10,
+      "nome": "46",
+      "dataCompra": "",
+      "duracaoGarantiaMeses": ""
+    },
+    {
+      "id": 11,
+      "nome": "46",
+      "dataCompra": null,
+      "duracaoGarantiaMeses": ""
+    },
+    {
+      "id": 12,
+      "nome": "46",
+      "dataCompra": null,
+      "duracaoGarantiaMeses": "rtg"
+    }
+  ]
+}

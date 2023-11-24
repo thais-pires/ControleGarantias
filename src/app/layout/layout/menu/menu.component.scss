@@ -1,0 +1,33 @@
+// .sidenav-container {
+//   height: 100%;
+// }
+
+// .sidenav {
+//   width: 200px;
+// }
+
+// .mat-toolbar {
+//   position: sticky;
+//   top: 0;
+// }
+
+// .mat-list-item {
+//   cursor: pointer;
+// }
+
+// @media screen and (max-width: 600px) {
+//   .sidenav {
+//     width: 100%;
+//   }
+// }
+/* menu.component.scss */
+// src/app/layout/menu/menu.component.scss
+
+.full-width-toolbar {
+  width: 100%;
+}
+
+.title {
+  flex-grow: 1;
+}
+
